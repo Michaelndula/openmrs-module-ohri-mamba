@@ -118,13 +118,13 @@
 
             <dependency>
                 <groupId>org.openmrs.module</groupId>
-                <artifactId>ohrimamba-core-omod</artifactId>
+                <artifactId>ohrimamba.core-omod</artifactId>
                 <version>${mambaETLCoreVersion}</version>
             </dependency>
 
             <dependency>
                 <groupId>org.openmrs.module</groupId>
-                <artifactId>ohrimamba-core-api</artifactId>
+                <artifactId>ohrimamba.core-api</artifactId>
                 <version>${mambaETLCoreVersion}</version>
                 <type>jar</type>
             </dependency>
@@ -135,7 +135,7 @@
     <dependencies>
         <dependency>
             <groupId>org.openmrs.module</groupId>
-            <artifactId>ohrimamba-core-api</artifactId>
+            <artifactId>ohrimamba.core-api</artifactId>
         </dependency>
     </dependencies>
 
@@ -161,7 +161,7 @@
                                 <artifactItems>
                                     <artifactItem>
                                         <groupId>org.openmrs.module</groupId>
-                                        <artifactId>ohrimamba-core-api</artifactId>
+                                        <artifactId>ohrimamba.core-api</artifactId>
                                         <outputDirectory>${project.build.directory}/mamba-etl</outputDirectory>
                                         <includes>_core/**</includes>
                                     </artifactItem>
@@ -275,7 +275,7 @@
                                     <argument>-d openmrs</argument>
 
                                     <!-- The target or analysis Database where the ETL data is stored -->
-                                    <argument>-a analysis_db</argument>
+                                    <argument>-a ssemr_etl</argument>
 
                                     <!-- File with a list of all files with stored procedures -->
                                     <!-- Remove this argument after automating core to auto-read this -->
