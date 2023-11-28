@@ -1,0 +1,15 @@
+{
+    "report_name": "HIV end of follow up",
+    "flat_table_name": "ssemr_flat_encounter_end_of_follow_up",
+    "encounter_type_uuid": "b87389fc-79ee-4ec6-99d1-e0c4c891a0a6",
+    "concepts_locale": "en",
+    "table_columns": {
+        "date_of_death":"52ce6b47-a049-4b56-9cf7-0852939a87af",
+        "cause_of_death":"4acd75d7-1bd1-40a1-8ba2-0653893319ef",
+        "ltfu_date":"773cd838-7b21-4f34-9b33-0a071140f817",
+        "cause_of_ltfu":"12b33328-f06b-40ec-81f0-7da20ddc9580",
+        "self_transfer_date":"760ce522-ff7e-4064-82b4-814964b3e83a",
+        "transfer_out_date":"9531371b-ba97-4f57-9edb-7480d908b8f8",
+        "transfer_to":"ccdfc79c-0c19-4731-ab95-f41a82480069"
+    }
+}
