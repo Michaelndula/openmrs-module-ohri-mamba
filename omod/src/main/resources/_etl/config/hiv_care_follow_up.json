@@ -39,7 +39,16 @@
         "rpr_hb_sputum_cxr_bepb":"f5b60f09-9d8a-4bda-9318-9ef097c77945",
         "rfts_lfts_and_other_lab_tests":"1efadff1-daa0-45b8-a765-77f540e9f253",
         "number_of_days_hospitalized":"73aeaec5-4169-40a9-8b59-f799b28a548c",
-        "clinician":"611d6c22-7c6d-47cf-a74e-190f9e3cdd47"    
+        "clinician":"611d6c22-7c6d-47cf-a74e-190f9e3cdd47",
+        "patient_breastfeeding":"e288fc7d-bbc5-479a-b94d-857e3819f926",
+        "client_pregnant": "1ccceceb-fb05-4ef6-845b-e0d64d3f9ba4",
+        "client_pmtct": "1d593268-8a2d-4030-bf1d-9c341d47f875",
+        "on_tb_treatment": "58ab89cd-6674-480b-95a0-5b761b0275cb",
+        "date_started_tb": "ce828c13-dea2-43b7-85b9-975c5613b2db",
+        "tb_unit_number": "6cc3d304-26b5-43e1-951a-8a94a30841da",
+        "side_effects": "13498474-ba95-4fec-8010-c8c5e24748ff",
+        "started_on_tb_regimen": "58ab89cd-6674-480b-95a0-5b761b0275cb",
+        "art_regimen": "23322fd6-3dbb-410e-8bee-6210dfcd5f71",
+        "days_dispensed": "4ab28128-7ef3-452d-86d5-73561761b08a"
      }
   }
-  
