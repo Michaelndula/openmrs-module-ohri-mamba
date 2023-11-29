@@ -1,0 +1,22 @@
+{
+    "report_name": "Family History",
+    "flat_table_name": "ssemr_flat_encounter_family_history",
+    "encounter_type_uuid": "81852aee-3f10-11e4-adec-0800271c1b75",
+    "concepts_locale": "en",
+    "table_columns": {
+        "marital_status":"fdcd966e-0870-4d5d-a506-121efc0c39fb",
+        "occupation":"c221869a-3f10-11e4-adec-0800271c1b75",
+        "occupation_other":"9e9df8b6-3bad-454e-a2fc-04842d02d62a",
+        "individual_name":"1074cef5-e4f9-470d-aaea-a4d8d7436c49",
+        "age":"db25b3c5-10da-49a9-9137-cc8a2507585a",
+        "sex":"d969948d-6671-4149-a234-7b991c70e1c1",
+        "relationship":"2eed6753-c2b7-4b85-a099-a78beb4eaff3",
+        "phone_number":"ea7dbf27-e84d-43a3-bbac-d7bb06ff1f23",
+        "hiv_status":"160f21c0-9a96-4ffd-a72c-aabed02b6a53",
+        "date_hiv_tested":"11dc9dd8-bba8-4e4e-a2a3-528d9082d153",
+        "result_of_hts":"75e39180-fe17-4075-9642-f389e6d1ea20",
+        "on_art":"48741238-7ad4-42f0-a1f4-d2bb6b355614",
+        "unique_art_or_hie_number":"7bec5791-6cdc-4fe4-bfbb-89cbf3ab03b4"
+    }
+  }
+  
