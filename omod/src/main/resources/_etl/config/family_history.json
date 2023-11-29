@@ -4,6 +4,9 @@
     "encounter_type_uuid": "81852aee-3f10-11e4-adec-0800271c1b75",
     "concepts_locale": "en",
     "table_columns": {
+        "marital_status":"fdcd966e-0870-4d5d-a506-121efc0c39fb",
+        "occupation":"c221869a-3f10-11e4-adec-0800271c1b75",
+        "occupation_other":"9e9df8b6-3bad-454e-a2fc-04842d02d62a",
         "individual_name":"1074cef5-e4f9-470d-aaea-a4d8d7436c49",
         "age":"db25b3c5-10da-49a9-9137-cc8a2507585a",
         "sex":"d969948d-6671-4149-a234-7b991c70e1c1",
