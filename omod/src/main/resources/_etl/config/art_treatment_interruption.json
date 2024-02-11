@@ -1,0 +1,10 @@
+{
+    "report_name": "ART Treatment Interruption",
+    "flat_table_name": "ssemr_flat_encounter_art_interruption",
+    "encounter_type_uuid": "81852aee-3f10-11e4-adec-0800271c1b75",
+    "concepts_locale": "en",
+    "table_columns": {
+        "date_of_treatment_interruption":"84c23dc4-40f4-4d9a-a2f5-ebeb4b4f3250",
+        "date_restarted":"fa954f61-ffaf-426c-a70b-3da7fddafbf8"
+    }
+}
