@@ -1,0 +1,19 @@
+{
+    "report_name": "Index Mapping and Testing",
+    "flat_table_name": "ssemr_flat_index_mapping_and_testing",
+    "encounter_type_uuid": "f469b65f-a4f6-4723-989a-46090de6a0e5",
+    "concepts_locale": "en",
+    "table_columns": {
+        "f_member_name":"1074cef5-e4f9-470d-aaea-a4d8d7436c49",
+        "f_member_age":"db25b3c5-10da-49a9-9137-cc8a2507585a",
+        "f_member_sex":"d969948d-6671-4149-a234-7b991c70e1c1",
+        "f_member_relationship":"2eed6753-c2b7-4b85-a099-a78beb4eaff3",
+        "f_member_hiv_status_knowledge_during_mapping":"03ae7466-a616-42d8-b827-46024c88a831",
+        "f_member_hiv_status_during_mapping":"160f21c0-9a96-4ffd-a72c-aabed02b6a53",
+        "f_member_date_tested_during_mapping":"11dc9dd8-bba8-4e4e-a2a3-528d9082d153",
+        "f_member_hts_tested":"7a55ed45-6de2-4c3a-b88e-4de25a898148",
+        "f_member_hts_testing_results":"75e39180-fe17-4075-9642-f389e6d1ea20",
+        "f_member_on_art":"48741238-7ad4-42f0-a1f4-d2bb6b355614",
+        "f_member_unique_art_no":"7bec5791-6cdc-4fe4-bfbb-89cbf3ab03b4"
+    }
+}
