@@ -1,7 +1,7 @@
 {
     "report_name": "Community Linkage Report",
     "flat_table_name": "ssemr_flat_encounter_community_linkage",
-    "encounter_type_uuid": "3c2df02e-6856-11ee-8c99-0242ac120002",
+    "encounter_type_uuid": "81852aee-3f10-11e4-adec-0800271c1b75",
     "concepts_locale": "en",
     "table_columns": {
         "s_no":"bd89293d-c32c-4d05-878d-f4472530c9ab",
