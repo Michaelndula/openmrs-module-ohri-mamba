@@ -1,7 +1,7 @@
 {
     "report_name": "High Viral Load Report",
     "flat_table_name": "ssemr_flat_encounter_high_viral_load",
-    "encounter_type_uuid": "81852aee-3f10-11e4-adec-0800271c1b75",
+    "encounter_type_uuid": "f7f1c854-69e5-11ee-8c99-0242ac120002",
     "concepts_locale": "en",
     "table_columns": {
         "arv_regimen":"23322fd6-3dbb-410e-8bee-6210dfcd5f71",
