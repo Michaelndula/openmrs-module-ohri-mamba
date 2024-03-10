@@ -25,7 +25,6 @@
         "side_effects":"13498474-ba95-4fec-8010-c8c5e24748ff",
         "new_io_other_problems":"be8d8351-6dad-4f91-a5a1-40c56656bbf5",
         "who_clinical_stage":"e38e6ce2-92d9-4382-927b-5555ff9fa850",
-        "contrimoxazole_dapstone":"74e61e07-fd72-4d67-ab85-b87ceec3b637",
         "adherence_number_of_days":"ac775264-a811-4b3e-a64f-0c20ae8f9b0c",
         "inh":"7ddb08f2-09e8-48ef-a08f-3744467fec48",
         "pills_dispensed":"ffa2244a-8729-47fc-9185-d62a7033b511",
@@ -46,9 +45,12 @@
         "on_tb_treatment": "58ab89cd-6674-480b-95a0-5b761b0275cb",
         "date_started_tb": "ce828c13-dea2-43b7-85b9-975c5613b2db",
         "tb_unit_number": "6cc3d304-26b5-43e1-951a-8a94a30841da",
-        "side_effects": "13498474-ba95-4fec-8010-c8c5e24748ff",
         "started_on_tb_regimen": "58ab89cd-6674-480b-95a0-5b761b0275cb",
         "art_regimen": "23322fd6-3dbb-410e-8bee-6210dfcd5f71",
-        "days_dispensed": "4ab28128-7ef3-452d-86d5-73561761b08a"
+        "days_dispensed": "4ab28128-7ef3-452d-86d5-73561761b08a",
+        "on_ctx": "6e259aec-edea-4ee0-8aa8-4e03f266cd60",
+        "date_started_ctx": "420bd170-df26-4948-9e80-f8f95e8492f3",
+        "on_dapson": "0cb0b2c1-6609-4d98-9ebf-72ba3f33118d",
+        "date_started_dapson": "d8a05f0f-3a39-4338-b40e-45567d5fd406"
      }
   }
