@@ -34,16 +34,15 @@
         "date_of_collection_of_repeat_vl":"c8ef861f-cdcb-4605-83ae-29a95b1d5e27",
         "counsellor":"7d6f2311-5eb3-49fe-acda-9d591447ceb0",
         "date_of_assessment":"71d64d77-f53f-4093-9651-2952c5777275",
-        "repeat_vl_result":"4921d88d-4471-433c-8b6e-a15fae80a552",
-        "repeat_vl_result_1000cml":"a1b9b338-fd39-4a8d-9f3a-aef2a9b0bce4",
-        "repeat_vl_date":"06cee3e6-daaa-48cf-aa53-296254ee61a3",
+        "repeat_vl_result":"01c3ce55-b7eb-45f5-93d5-bace353e3cfd",
+        "repeat_vl_result_lt_1000_gt_1000":"a1b9b338-fd39-4a8d-9f3a-aef2a9b0bce4",
+        "repeat_vl_sample_date":"c8ef861f-cdcb-4605-83ae-29a95b1d5e27",
+        "repeat_vl_result_date":"06cee3e6-daaa-48cf-aa53-296254ee61a3",
         "plan_for_the_patient":"63df6d3e-4bf0-4463-871d-caca8875d77f",
         "new_regimen":"1b7d3042-5cdb-4966-a606-e69d9e8524ac",
         "date":"e605731b-2e81-41a9-8446-2ed442c339e2",
-        "comments":"c3659bf9-3f10-11e4-adec-0800271c1b75",
         "art_provider_name":"b726713f-b6a1-4af4-b688-b563adf59269",
         "art_provider_signature":"c0fff453-a905-4697-972d-29db4a6fd59b",
-        "date":"e605731b-2e81-41a9-8446-2ed442c339e2",
         "eac_session": "65536958-fc01-4002-8839-af4b6ab0489b"
     }
 }
