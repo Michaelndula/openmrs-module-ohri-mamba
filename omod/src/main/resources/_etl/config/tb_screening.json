@@ -1,10 +1,9 @@
 {
     "report_name": "TB Screening Form Children Report",
-    "flat_table_name": "ssemr_flat_encounter_tb_screening_form_children",
-    "encounter_type_uuid": "81fbaddd-3f10-11e4-adec-0800271c1b75",
+    "flat_table_name": "ssemr_flat_encounter_tb_screening",
+    "encounter_type_uuid": "e8481555-9dd1-4bb5-ba8c-cb721dafb166",
     "concepts_locale": "en",
     "table_columns": {
-        "date":"e605731b-2e81-41a9-8446-2ed442c339e2",
         "current_cough":"147b8be8-d657-4e46-8970-6f9983b27722",
         "tb_screening_fever":"f405d8ec-14d0-485a-b52d-bffdfeb26581",
         "tb_screening_weight_loss":"78f5bc62-ecbe-457f-87dd-def20dbee82e",
