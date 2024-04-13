@@ -5,7 +5,6 @@
     "concepts_locale": "en",
     "table_columns": {
         "date_of_sample_collection":"ed520e2d-acb4-4ea9-8ae5-16ca27ace96d",
-        "time_sample_collected":"9fc84874-ec1c-4f15-9e0d-5a73dd416667",
         "sample_type":"7b532bef-9232-4675-a359-7b1310b66d3a",
         "date_of_treatment_initiation":"44dba186-7507-41d4-811f-79eae073cdcc",
         "date_of_initial_current_regimen":"30f1f347-d72c-4920-9962-6d55d138e8e5",
