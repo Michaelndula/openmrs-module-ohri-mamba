@@ -5,6 +5,11 @@
     "concepts_locale": "en",
     "table_columns": {
         "date_of_treatment_interruption":"84c23dc4-40f4-4d9a-a2f5-ebeb4b4f3250",
-        "date_restarted":"fa954f61-ffaf-426c-a70b-3da7fddafbf8"
+        "date_of_last_visit": "773cd838-7b21-4f34-9b33-0a071140f817",
+        "reason_for_treatment_interruption":"949c3f14-03af-4a00-9647-5f7575ed0719",
+        "other_reason_for_art_interruption": "0498d422-dbf7-4d64-9daf-e09e08a3be49",
+        "art_treatment_restarted": "4913c7f0-3362-4407-8d48-4b115f2f59dd",
+        "date_restarted":"fa954f61-ffaf-426c-a70b-3da7fddafbf8",
+        "lost_to_follow_up":"7053eaca-fc21-4b73-b246-b6e9ae3b3f67"
     }
 }
