@@ -5,8 +5,9 @@
     "concepts_locale": "en",
     "table_columns": {
         "death":"417b7273-8d62-4720-9fb6-075e9d1530ec",
-        "date_of_death":"52ce6b47-a049-4b56-9cf7-0852939a87af",
+        "date_of_death":"bced5365-80f5-4a27-a287-60296c4e4ff9",
         "cause_of_death":"4acd75d7-1bd1-40a1-8ba2-0653893319ef",
+        "other_infections_and_parasitic_disease_specify":"98fb1bba-dc86-4a68-a098-f1dfe593d933",
         "ltfu":"7053eaca-fc21-4b73-b246-b6e9ae3b3f67",
         "ltfu_date":"773cd838-7b21-4f34-9b33-0a071140f817",
         "cause_of_ltfu":"12b33328-f06b-40ec-81f0-7da20ddc9580",
