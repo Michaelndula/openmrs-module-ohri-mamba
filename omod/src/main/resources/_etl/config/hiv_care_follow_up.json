@@ -4,125 +4,77 @@
     "encounter_type_uuid": "e8481555-9dd1-4bb5-ba8c-cb721dafb166",
     "concepts_locale": "en",
     "table_columns": {
-        "death":"041daad2-198b-4223-aa46-6b23e85776a9",
-        "date_of_death":"bced5365-80f5-4a27-a287-60296c4e4ff9",
-        "lost_to_follow_up":"7ca4f879-4862-4cd5-84b3-e1ead8ff54ff",
-        "lost_follow_up_last_visit_date":"773cd838-7b21-4f34-9b33-0a071140f817",
-        "transferred_out":"b949cd75-97cb-4de2-9553-e6d335696f07",
-        "hivtc_date_of_transfered_out":"d0fa2ac1-efaa-4050-ba8a-a0b55ccc17b9",
-        "hivtc_transferred_out_to":"d930b180-7899-42b4-98bb-8f49d6b46661",
-        "follow_up_scheduled":"a226366c-01ca-4c6c-8817-15ccceba3263",
+        "date_scheduled":"e605731b-2e81-41a9-8446-2ed442c339e2",
         "follow_up_date":"ee31f5fc-40b8-417d-8350-1a74431c220b",
-
         "duration_in_months_since_first_starting":"a8dd544d-fe87-4ff1-9911-6acdc6847d21",
         "duration_in_months_since_starting_current_regimen":"e0e2acbe-f88b-4710-adbd-08637d80ea97",
-        "weight":"5089AAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "weight":"5089AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
         "height":"5090AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "bmi":"c367d9ee-3f10-11e4-adec-0800271c1b75",
-        "bmi_adults_children_5":"1342AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "muac_for_children":"1343AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "muac_for_children_and_pregnant_mothers":"1343AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-
-        "muac_pregnancy_visit":"9f97c629-b1a0-42dc-bb2f-9227aad97d96",
-
+        "bmi":"1342AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
         "current_on_fp":"8df413d9-e018-4a38-817f-fcf718f0df2f",
-        "fp_method_used_by_the_patient":"471c15a8-4bb2-43b6-9dc2-3b3db2e29b24",
         "family_panning_method":"609d59f7-79d1-4748-ad86-57c831dbff60",
-
         "is_client_pregnant":"5dcb1bc9-ee89-4b57-9493-a1f245c5ee8b",
-        
         "edd":"12118225-edad-45e2-9313-a5bca2cb4995",
-
-        "muac_for_pregnant_mother":"1343AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
         "client_breasfeeding":"cf5c7deb-f67c-4406-82ea-d619e502f47c",
-
-        "tb_status":"9a1a731e-937b-46fe-aca2-acf83a326b71",
-
-
-        "side_effects":"13498474-ba95-4fec-8010-c8c5e24748ff",
-        "new_io_other_problems":"be8d8351-6dad-4f91-a5a1-40c56656bbf5",
-        "who_clinical_stage":"e38e6ce2-92d9-4382-927b-5555ff9fa850",
-        "adherence_number_of_days":"ac775264-a811-4b3e-a64f-0c20ae8f9b0c",
-        "inh":"7ddb08f2-09e8-48ef-a08f-3744467fec48",
-
-        "pills_dispensed":"ffa2244a-8729-47fc-9185-d62a7033b511",
-        "num_of_pills_dispensed_inh": "9fa616bc-e749-434c-b43a-438fefc5b104",
-        "num_of_pills_dispensed_dapsone":"1c8a00ad-8d9c-48e0-8011-8f79f5f9fa05",
-
-
-        "other_meds_dispensed":"2ad448e9-69b8-4103-8e86-56e2b893100c",
-        "adhere_why":"69983582-9845-40e6-b33e-2d6491efa1c8",
-        "regimen_dose":"29fa186d-e282-479f-b2b7-66fb1e9721e4",
-        "number_of_days_dispensed":"4ab28128-7ef3-452d-86d5-73561761b08a",
-        "cd4":"809dd0f5-ce54-441c-b835-a2a8b06a6140",
-        "date_vl_sample_collected":"fc684917-4deb-42cf-9245-8a13c6a232bc",
-        "date_vl_results_received":"80e34f1b-26e8-49ea-9b6e-d7d903a91e26",
-        "vl_results":"01c3ce55-b7eb-45f5-93d5-bace353e3cfd",
-        "rpr_hb_sputum_cxr_bepb":"f5b60f09-9d8a-4bda-9318-9ef097c77945",
-        "rfts_lfts_and_other_lab_tests":"1efadff1-daa0-45b8-a765-77f540e9f253",
-        "number_of_days_hospitalized":"73aeaec5-4169-40a9-8b59-f799b28a548c",
-        "clinician":"611d6c22-7c6d-47cf-a74e-190f9e3cdd47",
-
-
-        "patient_breastfeeding":"e288fc7d-bbc5-479a-b94d-857e3819f926",
-        "client_pregnant": "1ccceceb-fb05-4ef6-845b-e0d64d3f9ba4",
-
-
-
         "client_pmtct": "da20f4fc-94b4-421c-896c-cf16a834227a",
-
         "on_tb_treatment": "58ab89cd-6674-480b-95a0-5b761b0275cb",
         "date_started_tb": "ce828c13-dea2-43b7-85b9-975c5613b2db",
         "tb_unit_number": "6cc3d304-26b5-43e1-951a-8a94a30841da",
-
         "current_cough":"147b8be8-d657-4e46-8970-6f9983b27722",
         "fever":"f405d8ec-14d0-485a-b52d-bffdfeb26581",
         "weight_loss":"78f5bc62-ecbe-457f-87dd-def20dbee82e",
-        "poor_weight_gain":"78f5bc62-ecbe-457f-87dd-def20dbee82e",
+        "poor_weight_gain":"0fe4cff0-4646-4180-9d2e-8314ffb7a0f4",
         "night_sweats":"9e0bf1ca-dbbe-4024-9d1c-174f4ab1e80d",
         "close_contact_history_with_tb_patients":"51b82f82-0c27-46e3-9f33-6d65cc1f6eed",
+        "tb_status":"9a1a731e-937b-46fe-aca2-acf83a326b71",
         "type_of_tb_test":"6ceb4493-a690-46fd-98a2-9f86ee1410b9",
+        "inh":"7ddb08f2-09e8-48ef-a08f-3744467fec48",
+        "num_of_pills_dispensed_inh": "9fa616bc-e749-434c-b43a-438fefc5b104",
         "sputum_for_afb_result":"fdaa7259-df0b-4e26-9d9c-de2ca68dff1d",
         "cxr_result":"7c679f4f-cae6-43ba-bf18-0f3bd9f060a8",
         "other_dx_specify":"598aee3b-470c-4cfb-9b79-6bf34f988093",
-        "genexpert_result":"19ac4483-f0db-439e-9dfc-997436fa0255",
+        "genexpert_result":"c2f01b10-1b5e-485a-a352-05788359d881",
         "type_of_tb":"3109983a-98af-4017-a16b-e3bac0c48d25",
         "fna_culture_ultrasound_done":"ad8ecb63-6b5d-49b2-9a9d-e16d7a0efc40",
+        "side_effects":"13498474-ba95-4fec-8010-c8c5e24748ff",
         "opportunistic_infections":"e0d24a66-6fb5-47e1-852f-32a8f8ed71e2",
-
-        "started_on_tb_regimen": "58ab89cd-6674-480b-95a0-5b761b0275cb",
-        "art_regimen": "23322fd6-3dbb-410e-8bee-6210dfcd5f71",
-
-        "other_art_regimen_specify":"b0afac64-54b5-412c-86d0-7cf5dc6afb35",
-        "art_regimen_no_of_days_dispensed":"417625de-7d5e-45e4-bec7-60d72c94e657",
-        "art_regimen_no_of_pills_dispensed":"3fa33347-9871-497b-81f3-7a791b9f4bae",
-
-        "days_dispensed": "4ab28128-7ef3-452d-86d5-73561761b08a",
+        "new_io_other_problems":"be8d8351-6dad-4f91-a5a1-40c56656bbf5",
+        "who_clinical_stage":"e38e6ce2-92d9-4382-927b-5555ff9fa850",
         "on_ctx": "6e259aec-edea-4ee0-8aa8-4e03f266cd60",
         "date_started_ctx": "420bd170-df26-4948-9e80-f8f95e8492f3",
-
         "adherence":"e360501a-123a-4efb-93ef-4dc19d031921",
-
         "reason_why_adherence_is_poor":"b0058799-4655-471d-8124-6acd14c6beb1",
         "other_reason_why_adherence_is_poor_specify":"58ab093d-6cee-4b2d-a85f-dd40e1025a42",
         "reason_why_adherence_is_fair":"d0f3605e-f026-4ef8-973a-f471a236049a",
         "other_adherence_reason_specify":"66e7bd78-5956-4fda-84a1-80ff8e96c579",
-
+        "art_regimen_no_of_days_dispensed":"417625de-7d5e-45e4-bec7-60d72c94e657",
+        "number_of_pills_dispensed":"043177ba-5090-4369-896f-982f046773d6",
+        "on_dapsone": "0cb0b2c1-6609-4d98-9ebf-72ba3f33118d",
+        "date_started_dapsone": "d8a05f0f-3a39-4338-b40e-45567d5fd406",
+        "number_of_days_dispensed":"4ab28128-7ef3-452d-86d5-73561761b08a",
+        "num_of_pills_dispensed_dapsone":"1c8a00ad-8d9c-48e0-8011-8f79f5f9fa05",
         "any_other_medication_given":"9a67ecbf-5229-4de0-a533-382a87c01d76",
         "record_other_medication_given":"f9cd08a2-c316-11e9-9cb5-2a2ae2dbcce4",
+        "art_regimen": "23322fd6-3dbb-410e-8bee-6210dfcd5f71",
+        "other_art_regimen_specify":"b0afac64-54b5-412c-86d0-7cf5dc6afb35",
+        "art_regimen_no_of_pills_dispensed":"3fa33347-9871-497b-81f3-7a791b9f4bae",
+        "art_first_line_switch_date":"ad884e26-5e18-4ec3-b471-c1cd1374387f",
+        "reason_for_regimen_change_first_line":"f0941906-3277-4ca0-891a-a58efb541c66",
+        "other_reason_for_regimen_change_first_line":"b59fff1c-ab4f-4686-9435-783994432356",
+        "reason_for_regimen_change_second_line":"847b1998-5b2f-4818-a6c0-4284e2f85403",
+        "other_reason_for_regimen_change_second_line":"41c2e674-babe-469d-bdf3-2b57ba568a4b",
         "cd4_done":"2652c9e7-72c5-48ae-b6ee-0bd3dcb65fca",
-        "virtual_load_test_done":"78763e68-104e-465d-8ce3-35f9edfb083d",
-        "art_substitution_and_switch":"9734068e-4f96-4133-a7c0-d9d524c0fd7b",
+        "cd4":"809dd0f5-ce54-441c-b835-a2a8b06a6140",
+        "virtual_load_test_done":"2cef90d7-7d4f-4bda-accd-8e51e612037f",
+        "date_vl_sample_collected":"fc684917-4deb-42cf-9245-8a13c6a232bc",
+        "vl_results":"01c3ce55-b7eb-45f5-93d5-bace353e3cfd",
+        "date_vl_results_received":"80e34f1b-26e8-49ea-9b6e-d7d903a91e26",
+        "rpr_hb_sputum_cxr_bepb":"f5b60f09-9d8a-4bda-9318-9ef097c77945",
         "other_investigations_done":"32fb9948-d296-4eec-8dfd-699539ba5b05",
         "record_other_investigations_done":"9fc6b318-054e-45c0-983b-912d1c93e86e",
-
         "patients_plan":"3352d2b2-67b6-4e84-9b2c-1baef41b0d05",
         "refer_or_consult":"ce7573a3-c680-458a-8abb-a25088d4d261",
-
-
-
-        
-        "on_dapson": "0cb0b2c1-6609-4d98-9ebf-72ba3f33118d",
-        "date_started_dapson": "d8a05f0f-3a39-4338-b40e-45567d5fd406"
+        "number_of_days_hospitalized":"73aeaec5-4169-40a9-8b59-f799b28a548c",
+        "clinician":"611d6c22-7c6d-47cf-a74e-190f9e3cdd47"   
      }
   }
