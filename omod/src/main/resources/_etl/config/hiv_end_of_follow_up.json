@@ -1,7 +1,7 @@
 {
     "report_name": "HIV end of follow up",
     "flat_table_name": "ssemr_flat_encounter_end_of_follow_up",
-    "encounter_type_uuid": "81e13b91-3f10-11e4-adec-0800271c1b75",
+    "encounter_type_uuid": "3bf40d2b-c8a2-4a7d-9da2-adb33860e0f8",
     "concepts_locale": "en",
     "table_columns": {
         "death":"417b7273-8d62-4720-9fb6-075e9d1530ec",
