@@ -1,7 +1,7 @@
 {
     "report_name": "Family History",
     "flat_table_name": "ssemr_flat_encounter_family_history",
-    "encounter_type_uuid": "f469b65f-a4f6-4723-989a-46090de6a0e5",
+    "encounter_type_uuid": "0e9f540d-92cb-43c9-a95c-9407f5bf3f2a",
     "concepts_locale": "en",
     "table_columns": {
         "marital_status":"fdcd966e-0870-4d5d-a506-121efc0c39fb",

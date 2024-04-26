@@ -1,14 +1,14 @@
 {
     "report_name": "Index Mapping and Testing",
     "flat_table_name": "ssemr_flat_index_mapping_and_testing",
-    "encounter_type_uuid": "f469b65f-a4f6-4723-989a-46090de6a0e5",
+    "encounter_type_uuid": "0e9f540d-92cb-43c9-a95c-9407f5bf3f2a",
     "concepts_locale": "en",
     "table_columns": {
         "f_member_name":"1074cef5-e4f9-470d-aaea-a4d8d7436c49",
         "f_member_age":"db25b3c5-10da-49a9-9137-cc8a2507585a",
         "f_member_sex":"d969948d-6671-4149-a234-7b991c70e1c1",
-        "f_member_phone":"cce02a4f-9212-4a85-8e55-0d8f6814e393",
-        "f_enter_phone":"ea7dbf27-e84d-43a3-bbac-d7bb06ff1f23",
+        "f_member_phone_known_or_unknown":"cce02a4f-9212-4a85-8e55-0d8f6814e393",
+        "f_member_phone_number":"ea7dbf27-e84d-43a3-bbac-d7bb06ff1f23",
         "f_member_relationship":"2eed6753-c2b7-4b85-a099-a78beb4eaff3",
         "f_member_hiv_status_knowledge_during_mapping":"03ae7466-a616-42d8-b827-46024c88a831",
         "f_member_hiv_status_during_mapping":"160f21c0-9a96-4ffd-a72c-aabed02b6a53",

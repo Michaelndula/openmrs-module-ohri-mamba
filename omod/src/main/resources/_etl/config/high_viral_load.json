@@ -5,7 +5,6 @@
     "concepts_locale": "en",
     "table_columns": {
         "vl_provider":"7f77c914-aff6-4378-ad07-755ccf99353a",
-
         "arv_regimen":"23322fd6-3dbb-410e-8bee-6210dfcd5f71",
         "date_of_initiation_of_current_regimen":"30f1f347-d72c-4920-9962-6d55d138e8e5",
         "previous_vl":"2007c7b9-d822-4ce8-8a93-10f5423d1ab0",
@@ -48,6 +47,5 @@
         "art_provider_name":"b726713f-b6a1-4af4-b688-b563adf59269",
         "art_provider_signature":"c0fff453-a905-4697-972d-29db4a6fd59b",
         "eac_session": "65536958-fc01-4002-8839-af4b6ab0489b"
-        
     }
 }
