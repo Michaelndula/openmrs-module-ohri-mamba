@@ -1,12 +1,12 @@
 {
     "report_name": "Adult and Adolescent Intake Report",
-    "flat_table_name": "ssemr_flat_encounter_adult_and_adolescent_intake_report",
+    "flat_table_name": "ssemr_flat_encounter_adult_and_adolescent_intake",
     "encounter_type_uuid": "b645dbdd-7d58-41d4-9b11-eeff023b8ee5",
     "concepts_locale": "en",
     "table_columns": {
        "visit_date":"e605731b-2e81-41a9-8446-2ed442c339e2",
        "provider":"7f77c914-aff6-4378-ad07-755ccf99353a",
-       "date-of_enrolment":"e27f8561-e242-4744-9193-b84d752dd86d",
+       "date_of_enrolment":"e27f8561-e242-4744-9193-b84d752dd86d",
        "past_medical_history":"9af72d4e-8f50-4545-b154-7dd12fea2ea4",
        "other_past_medical_history":"f16c6a11-453f-44a2-a7a5-77aeaa93e67d",
        "current_symptoms":"aa25ca53-21b8-4e2f-b44b-61c2c20d4dee",
