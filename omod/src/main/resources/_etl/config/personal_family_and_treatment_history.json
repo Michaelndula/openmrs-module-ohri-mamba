@@ -1,6 +1,6 @@
 {
     "report_name": "Personal, Family and Treatment History Report",
-    "flat_table_name": "ssemr_flat_encounter_personal_family_and_treatment_history",
+    "flat_table_name": "ssemr_flat_encounter_personal_family_tx_history",
     "encounter_type_uuid": "0e9f540d-92cb-43c9-a95c-9407f5bf3f2a",
     "concepts_locale": "en",
     "table_columns": {
