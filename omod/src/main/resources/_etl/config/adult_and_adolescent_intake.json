@@ -4,7 +4,7 @@
     "encounter_type_uuid": "b645dbdd-7d58-41d4-9b11-eeff023b8ee5",
     "concepts_locale": "en",
     "table_columns": {
-       "visit_date":"e605731b-2e81-41a9-8446-2ed442c339e2",
+       "visit_date":"668cdec8-bc73-457d-9026-4c8946816611",
        "provider":"7f77c914-aff6-4378-ad07-755ccf99353a",
        "date_of_enrolment":"e27f8561-e242-4744-9193-b84d752dd86d",
        "past_medical_history":"9af72d4e-8f50-4545-b154-7dd12fea2ea4",
@@ -42,6 +42,7 @@
        "nervous_system_abnormality":"5b822b80-1a1e-41bf-bdd0-f62fadd65752",
        "cd4_done":"2652c9e7-72c5-48ae-b6ee-0bd3dcb65fca",
        "cd4_count":"809dd0f5-ce54-441c-b835-a2a8b06a6140",
+       "cbc_done":"131cf572-4664-49f9-9655-6023fc629a33",
        "cbc":"874452af-4d24-483a-a3c0-6c6de76274cc",
        "client_pregnant":"5dcb1bc9-ee89-4b57-9493-a1f245c5ee8b",
        "pregnancy_test":"f9e6254d-fd14-4831-9ee0-85099a72b3e8",
