@@ -4,8 +4,10 @@
     "encounter_type_uuid": "82024e00-3f10-11e4-adec-0800271c1b75",
     "concepts_locale": "en",
     "table_columns": {
+        "visit_date":"e605731b-2e81-41a9-8446-2ed442c339e2",
+        "visit_provider":"7f77c914-aff6-4378-ad07-755ccf99353a",
         "date_of_sample_collection":"ed520e2d-acb4-4ea9-8ae5-16ca27ace96d",
-        "time_sample_collected":"9fc84874-ec1c-4f15-9e0d-5a73dd416667",
+        "time_of_sample_collection":"9fc84874-ec1c-4f15-9e0d-5a73dd416667",
         "sample_type":"7b532bef-9232-4675-a359-7b1310b66d3a",
         "date_of_treatment_initiation":"44dba186-7507-41d4-811f-79eae073cdcc",
         "date_of_initial_current_regimen":"30f1f347-d72c-4920-9962-6d55d138e8e5",
@@ -26,6 +28,7 @@
         "email_of_hf":"dfcedbb1-11fe-4e19-969c-f88539ebc31f",
         "date_sample_received_lab":"0bfdbae3-ea5d-4173-a4e1-7f42d50e0bc6",
         "date_results_dispatched":"4db52045-d459-4c3e-b0b4-b7d00b18ed1e",
-        "rejection":"5986b9bb-b9e0-4c8a-bf16-6562fc3076a6"
+        "rejection":"b5d1c0b4-6cce-4a23-9754-60b6da6b5d88",
+        "reason_for_rejection":"1754e917-3956-4032-b7f9-e54edfa1f9d0"
     }
 }
