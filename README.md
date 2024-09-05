@@ -71,7 +71,7 @@ However for this to work a few steps need to be taken:
       `FLUSH PRIVILEGES;`
    
    This user is needed with the right priviledges because once the MambaETL module has been deployed, at starts up, there is a liquibase changeset that needs to run and do two things:
-   -  Create the specified ETL database (`ssemr_etl` by default)   
+   -  Create the specified ETL database (`analysis_db` by default)   
    -  Drop and Create a number of MambaETL stored procedures and Functions in your specified `analysis database`
    ![routines.png](_markdown%2Froutines.png)
 
@@ -104,9 +104,9 @@ However for this to work a few steps need to be taken:
    
    Adding this connection information is not mandatory as the system will default to using the same user connection information as your distribution (if you have provided none). 
    
-   Other-wise Create a separate database user with enough priviledges to the ssemr_etl (ETL) database.
+   Other-wise Create a separate database user with enough priviledges to the analysis_db (ETL) database.
    
-   The user should be able to create and drop Tables in the ssemr_etl (ETL) database.
+   The user should be able to create and drop Tables in the analysis_db (ETL) database.
 
    For-example given the openmrs properties file below:
    
@@ -269,7 +269,7 @@ Notably, don't forget to specify the names of your OpenMRS source database and t
       <argument>-d openmrs</argument>
    
       <!-- The target or analysis Database where the ETL data is stored -->
-      <argument>-a ssemr_etl</argument>
+      <argument>-a analysis_db</argument>
 
       <!-- Set the concepts locale name here -->
       <argument>-l en</argument>
