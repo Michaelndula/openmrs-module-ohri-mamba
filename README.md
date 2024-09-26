@@ -23,7 +23,7 @@ This module specifically has a dependency on the MambaETL core library `openmrs-
 
 ## **A Quick start-up setup guide**
 
-<span style='color: red;'>Pre-Requisites</span>
+**<span style='color: red;'>Pre-Requisites</span>**
 
 * A running instance of the OpenMRS server
 * The OpenMRS database user used by the running OpenMRs server must have elevated rights to be able to create databases (i.e. the analysis (ETL) db), Stored Procedures and Functions.
@@ -32,13 +32,13 @@ This module specifically has a dependency on the MambaETL core library `openmrs-
 * Java functionality (JAVA 7 & above)
 * Access to the OpenMRS admin interface to be able to re-configure the ETL task
 
-<span style='color: red;'>How to setup and run the module</span>
+**<span style='color: red;'>How to setup and run the module</span>**
 
 MambaETL table flattening comes bundled with MambaETL out of the box.
 
 However for this to work a few steps need to be taken:
 
-1. Check the OpenMRS database user priviledges and confirm that the user has the privilidges to create new databases, stored procedures and Functions in this database. 
+1. Check the OpenMRS database user priviledges and confrm that the user has the privilidges to create new databases, stored procedures and Functions in this database. 
    
    **Note**:
    If you created your OpenMRs instance using the default `Simple` option in the wizard, MambaETL will not be able to work since the wizard creates a database user with less privilidges than is required for MambaETL.
