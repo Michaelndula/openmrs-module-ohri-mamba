@@ -52,7 +52,7 @@
         "num_of_pills_dispensed_inh": "9fa616bc-e749-434c-b43a-438fefc5b104",
         "tpt_dispensed": "d56d2c1a-d385-4b75-bfec-a548f286d3c4",
         "tpt_pills_dispensed": "4bc80a63-ee07-400f-bcc6-22de7efb4d58",
-        "client_finished_tpt": "57c785e4-3552-455f-8506-4776987b4801",
+        "is_tpt_finished": "57c785e4-3552-455f-8506-4776987b4801",
         "date_tpt_dispensed": "b236df66-d1af-40ad-ad12-66c9f424dba6",
         "date_tpt_completed": "01c21238-6f58-4f8f-b0ef-b6554e427875",
         "cxr_result":"7c679f4f-cae6-43ba-bf18-0f3bd9f060a8",
