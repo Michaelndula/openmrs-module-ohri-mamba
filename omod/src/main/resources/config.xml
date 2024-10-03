@@ -5,24 +5,16 @@
     <id>${project.parent.artifactId}</id>
     <name>${project.parent.name}</name>
     <version>${project.parent.version}</version>
-    <package>org.openmrs.module.ohrimamba</package>
+    <package>org.openmrs.module.mambaetl</package>
     <author>Arthur D. Mugume [MakSPH], Laureen G. Omare [UCSF], Amos Laboso [UoN]</author>
     <description>${project.parent.description}</description>
 
-    <activator>org.openmrs.module.ohrimamba.OHRIMambaActivator</activator>
+    <activator>org.openmrs.module.mambaetl.MambaETLActivator</activator>
 
     <require_version>${openmrsPlatformVersion}</require_version>
 
     <aware_of_modules>
-        <aware_of_module>org.openmrs.module.legacyui</aware_of_module>
-    </aware_of_modules>
-
-    <require_modules>
-        <require_module>org.openmrs.module.webservices.rest</require_module>
-    </require_modules>
-
-    <aware_of_modules>
-        <aware_of_module>org.openmrs.module.ohrimamba.core</aware_of_module>
+        <aware_of_module>org.openmrs.module.webservices.rest</aware_of_module>
     </aware_of_modules>
 
     <!-- All message codes should start with @MODULE_ID@.* -->
@@ -38,30 +30,5 @@
         <lang>es</lang>
         <file>messages_es.properties</file>
     </messages>
-
-    <globalProperty>
-        <property>mambaetl.analysis.db.url</property>
-        <defaultValue>jdbc:mysql://localhost:3308/ssemr_etl?autoReconnect=true</defaultValue>
-<!--        <defaultValue>jdbc:mysql://localhost:3306/analysis_db?autoReconnect=true&amp;noAccessToProcedureBodies=true</defaultValue>-->
-        <description>MambaETL JDBC Connection string</description>
-    </globalProperty>
-
-    <globalProperty>
-        <property>mambaetl.analysis.db.username</property>
-        <defaultValue>root</defaultValue>
-        <description>MambaETL username</description>
-    </globalProperty>
-
-    <globalProperty>
-        <property>mambaetl.analysis.db.password</property>
-        <defaultValue>Admin123</defaultValue>
-        <description>MambaETL user password</description>
-    </globalProperty>
-
-    <globalProperty>
-        <property>mambaetl.analysis.db.driver</property>
-        <defaultValue>com.mysql.jdbc.Driver</defaultValue>
-        <description>MambaETL JDBC driver</description>
-    </globalProperty>
 
 </module>
