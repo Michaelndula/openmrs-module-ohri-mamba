@@ -6,7 +6,7 @@
     "table_columns": {
        "visit_date":"668cdec8-bc73-457d-9026-4c8946816611",
        "provider":"7f77c914-aff6-4378-ad07-755ccf99353a",
-       "date_of_enrolment":"e27f8561-e242-4744-9193-b84d752dd86d",
+       "art_start_date":"73779d67-7e8f-46fe-b723-8879838da5f8",
        "maternal_hiv_status":"5eedf493-6d2c-4c0d-8ea6-d43b539b39da",
        "immunization_done":"a5cf84c1-495d-431a-b1a6-28d943e389f8",
        "feeding_pattern_first_6_months":"74717127-b986-42e5-a125-139d4655c108",
