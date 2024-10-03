@@ -49,8 +49,12 @@
         "eligible_for_tpt": "7cecb44e-82d8-4126-b385-2c2549731156",
         "date_eligible_for_tpt": "fffda787-beec-4872-9968-3efeebb73823",
         "tpt_given": "7ddb08f2-09e8-48ef-a08f-3744467fec48",
-        "is_tpt_finished": "57c785e4-3552-455f-8506-4776987b4801",
         "num_of_pills_dispensed_inh": "9fa616bc-e749-434c-b43a-438fefc5b104",
+        "tpt_dispensed": "d56d2c1a-d385-4b75-bfec-a548f286d3c4",
+        "tpt_pills_dispensed": "4bc80a63-ee07-400f-bcc6-22de7efb4d58",
+        "is_tpt_finished": "57c785e4-3552-455f-8506-4776987b4801",
+        "date_tpt_dispensed": "b236df66-d1af-40ad-ad12-66c9f424dba6",
+        "date_tpt_completed": "01c21238-6f58-4f8f-b0ef-b6554e427875",
         "cxr_result":"7c679f4f-cae6-43ba-bf18-0f3bd9f060a8",
         "other_dx_specify":"598aee3b-470c-4cfb-9b79-6bf34f988093",
         "genexpert_result":"c2f01b10-1b5e-485a-a352-05788359d881",
@@ -96,6 +100,6 @@
         "patients_plan":"3352d2b2-67b6-4e84-9b2c-1baef41b0d05",
         "refer_or_consult":"ce7573a3-c680-458a-8abb-a25088d4d261",
         "number_of_days_hospitalized":"73aeaec5-4169-40a9-8b59-f799b28a548c",
-        "clinician":"611d6c22-7c6d-47cf-a74e-190f9e3cdd47"   
-     }
+        "clinician":"611d6c22-7c6d-47cf-a74e-190f9e3cdd47"
+    }
   }
