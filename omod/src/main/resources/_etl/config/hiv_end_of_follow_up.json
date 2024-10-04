@@ -15,6 +15,7 @@
         "transfer_out":"68f68ae1-272c-44e4-85af-009e46e60015",
         "transfer_out_date":"9531371b-ba97-4f57-9edb-7480d908b8f8",
         "transfer_to":"ccdfc79c-0c19-4731-ab95-f41a82480069",
-        "client_refused_treatment": "90b90c25-7b12-4593-9306-a0fdcc93b48f"
+        "client_refused_treatment": "90b90c25-7b12-4593-9306-a0fdcc93b48f",
+        "date_client_refused_treatment": "6ac5aa5b-70b1-4c99-8739-b0eccf625691"
     }
 }
