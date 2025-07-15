@@ -71,9 +71,7 @@
         "counsellor":"7d6f2311-5eb3-49fe-acda-9d591447ceb0",
         "date_of_assessment":"71d64d77-f53f-4093-9651-2952c5777275",
         "repeat_vl_result":"68c60487-62b5-45af-9773-0bc163b9e076",
-        "repeat_vl_result_lt_1000_gt_1000":"a1b9b338-fd39-4a8d-9f3a-aef2a9b0bce4",
         "repeat_vl_sample_date":"c8ef861f-cdcb-4605-83ae-29a95b1d5e27",
-        "repeat_vl_result_date":"06cee3e6-daaa-48cf-aa53-296254ee61a3",
         "plan_for_the_patient":"63df6d3e-4bf0-4463-871d-caca8875d77f",
         "remain_on_current_regimen_date":"0a199e73-a9c8-45f4-9b3f-dcb50873fb36",
         "switch_to_second_line_regimen_date":"2eb49be2-8291-435b-8a5c-c7e2a10506b3",
@@ -83,6 +81,10 @@
         "date":"e605731b-2e81-41a9-8446-2ed442c339e2",
         "art_provider_name":"b726713f-b6a1-4af4-b688-b563adf59269",
         "art_provider_signature":"c0fff453-a905-4697-972d-29db4a6fd59b",
-        "eac_session": "65536958-fc01-4002-8839-af4b6ab0489b"
+        "eac_session": "65536958-fc01-4002-8839-af4b6ab0489b",
+        "repeat_vl_results": "8b5ef5c4-3c88-49b8-87e5-cb8d30caa77d",
+        "repeat_vl_value": "01c3ce55-b7eb-45f5-93d5-bace353e3cfd",
+        "repeat_vl_result_lt_1000_gt_1000":"a1b9b338-fd39-4a8d-9f3a-aef2a9b0bce4",
+        "repeat_vl_result_date":"06cee3e6-daaa-48cf-aa53-296254ee61a3"
     }
 }

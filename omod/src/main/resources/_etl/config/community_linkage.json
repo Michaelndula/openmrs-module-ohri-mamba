@@ -8,6 +8,18 @@
         "name_of_cov_assigned":"5b258179-1872-4339-8b29-5ecf618bd4d3",
         "chw_phone_number": "cb3385ee-18c3-4856-a410-c7b4d105a779",
         "chw_address": "77a35b01-7713-437a-a82b-7f74c75ea41d",
-        "date_client_met_cov":"fef6ef98-6d8d-4921-80f2-93255a7a5faf"
+        "date_client_met_cov":"fef6ef98-6d8d-4921-80f2-93255a7a5faf",
+        "community_cadre": "802b7dcb-0092-48fa-a4e2-7b18489924fb",
+        "name_of_smm": "7195aadf-e227-4f3d-96c9-955fd4687a1b",
+        "phone_of_smm": "726e7bf8-a0b6-4e3b-af90-d1f5558c4b64",
+        "name_of_chso": "d5e8716f-9cd1-4d01-9377-aa6480d2c433",
+        "phone_of_chso": "a9a8c479-2c11-437d-ae08-26158b194461",
+        "name_of_mm": "fd68a9dd-5cd9-4b77-8f02-f93fcbd04370",
+        "phone_of_mm": "a1e7127b-5895-4b56-af77-94dbdf0e54e7",
+        "address_of_mm": "71d7aa03-28bb-44a9-bf9b-e0b3e5d4f40f",
+        "name_of_cow": "006d7edc-5a6c-4b00-96b8-5bc6c194b44d",
+        "phone_of_cow": "5f7ffbb8-53c7-40e0-9df0-5036b6eb536b",
+        "address_of_cow": "885a341c-068c-4a39-9543-f56e7cd3633c",
+        "date_of_linkage": "fef6ef98-6d8d-4921-80f2-93255a7a5faf"
     }
 }
